@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 html, button {
     font: 500 1rem/1.5 var(--ff-base);
 }
@@ -33,7 +32,7 @@ a {
     /*marca*/
     --snitap-sun: #FFCD1E;
     --snitap-sky-mid: #06B6D4;
-    --snitao-sky-light: #67E8F9;
+    --snitap-sky-light: #67E8F9;
     --snitap-joy-mid: #DB2777;
     --snitap-joy-light: #F472B6;
     --snitap-leaf-mid: #16A34A;
